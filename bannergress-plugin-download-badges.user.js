@@ -1,10 +1,10 @@
 // ==UserScript==
-// @author         chewbie88
 // @name           Bannergress : Download Badges
-// @category       Utils
-// @version        1.0.0
-// @description    Download Badges visuals.
 // @id             bannergress-plugin-download-badges@Chewbie88
+// @category       Utils
+// @author         chewbie88
+// @version        1.0.1
+// @description    Download Badges visuals.
 // @match          https://bannergress.com/*
 // @updateURL      https://github.com/chewbie88/bannergress-plugins/raw/main/bannergress-plugin-download-badges.user.js
 // @downloadURL    https://github.com/chewbie88/bannergress-plugins/raw/main/bannergress-plugin-download-badges.user.js
