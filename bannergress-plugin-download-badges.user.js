@@ -3,7 +3,7 @@
 // @id             bannergress-plugin-download-badges@Chewbie88
 // @category       Utils
 // @author         chewbie88
-// @version        1.0.1
+// @version        1.0.2
 // @description    Download Badges visuals.
 // @match          https://bannergress.com/*
 // @updateURL      https://github.com/chewbie88/bannergress-plugins/raw/main/bannergress-plugin-download-badges.user.js
